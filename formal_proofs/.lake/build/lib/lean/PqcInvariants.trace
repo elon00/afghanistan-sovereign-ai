@@ -1,0 +1,31 @@
+{"synthetic": false,
+ "schemaVersion": "2025-09-10",
+ "outputs":
+ {"o": ["2e9eb33b356f39cd.olean"],
+  "m": false,
+  "i": "d1f38d6f2e4ac4b0.ilean",
+  "c": "6bab905b9623727f.c"},
+ "log":
+ [{"message":
+   ".> LEAN_PATH=C:\\Users\\marti\\.gemini\\antigravity\\scratch\\lean-formal-proof-template\\formal_proofs\\.lake\\build\\lib\\lean c:\\Users\\marti\\.elan\\toolchains\\leanprover--lean4---v4.36.0\\bin\\lean.exe C:\\Users\\marti\\.gemini\\antigravity\\scratch\\lean-formal-proof-template\\formal_proofs\\PqcInvariants.lean -o C:\\Users\\marti\\.gemini\\antigravity\\scratch\\lean-formal-proof-template\\formal_proofs\\.lake\\build\\lib\\lean\\PqcInvariants.olean -i C:\\Users\\marti\\.gemini\\antigravity\\scratch\\lean-formal-proof-template\\formal_proofs\\.lake\\build\\lib\\lean\\PqcInvariants.ilean -c C:\\Users\\marti\\.gemini\\antigravity\\scratch\\lean-formal-proof-template\\formal_proofs\\.lake\\build\\ir\\PqcInvariants.c --setup C:\\Users\\marti\\.gemini\\antigravity\\scratch\\lean-formal-proof-template\\formal_proofs\\.lake\\build\\ir\\PqcInvariants.setup.json --json",
+   "level": "trace"}],
+ "inputs":
+ [["deps",
+   [["pqc_invariants/PqcInvariants:extraDep",
+     [["@pqc_invariants:extraDep", "00000000000006bb"]]],
+    ["imports", "00000000000006bb"]]],
+  ["libs",
+   [["import dynlibs", "00000000000006bb"],
+    ["package external libraries", "00000000000006bb"],
+    ["module dynlibs", "00000000000006bb"],
+    ["module plugins", "00000000000006bb"]]],
+  ["Lean 4.36.0, commit 611c117bfaf7b7ae1cfcf246ce6fba31e8f509e9",
+   "bd5dd4b1191d6a49"],
+  ["C:\\Users\\marti\\.gemini\\antigravity\\scratch\\lean-formal-proof-template\\formal_proofs\\PqcInvariants.lean",
+   "fe0a25de05af77c8"],
+  ["options", "00000000000006bb"],
+  ["isModule: false", "feefd2a0d3a1847e"],
+  ["Module.name: PqcInvariants", "c372ce48a74ea565"],
+  ["Package.id?: (some pqc_invariants)", "c017218882212727"],
+  ["Module.leanArgs: #[]", "00000000000006bb"]],
+ "depHash": "e9fde83c7fdc11c8"}
